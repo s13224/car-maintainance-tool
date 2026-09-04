@@ -1,0 +1,6 @@
+{
+  "name": "AutoTrack - Car Maintenance & Fuel Efficiency Tracker",
+  "description": "Track vehicle maintenance history, calculate real-time fuel efficiency, and receive automatic reminders for upcoming oil changes and scheduled services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
